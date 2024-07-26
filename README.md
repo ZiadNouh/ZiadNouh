@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Full Stack Developer | MERN Enthusiast | Tech Explorer</h3>
 <img align="right" width="400" alt="coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdhdDdtbHpvd3M5enV4dDMxYTJkdXRxc2h0dzQ3bGt0bTNpMm5yOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/760Fhvlzxl3IRemeOp/giphy.gif" />
 
-- 📫 How to reach me **zidnouhdev@gmail.com**
+- 📫 How to reach me **ziaddnouhdev@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ufc9LK1JaeysJ3zfDoDUysjEZ1Ew6Z2Y/view?usp=sharing](https://drive.google.com/file/d/1ufc9LK1JaeysJ3zfDoDUysjEZ1Ew6Z2Y/view?usp=sharing)
 
